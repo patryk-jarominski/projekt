@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Log__c</fullName>
+    <description>Unique number of the error log.</description>
+    <displayFormat>A-{0000}</displayFormat>
+    <externalId>false</externalId>
+    <inlineHelpText>Error log number</inlineHelpText>
+    <label>Log #</label>
+    <trackTrending>false</trackTrending>
+    <type>AutoNumber</type>
+</CustomField>

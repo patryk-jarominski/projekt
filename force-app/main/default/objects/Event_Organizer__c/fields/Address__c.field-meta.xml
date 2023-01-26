@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Address__c</fullName>
+    <deleteConstraint>SetNull</deleteConstraint>
+    <description>Address of the event organizer.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>Address name</inlineHelpText>
+    <label>Address</label>
+    <referenceTo>Location__c</referenceTo>
+    <relationshipLabel>Events_Organizer_Address</relationshipLabel>
+    <relationshipName>Events_Organizer1</relationshipName>
+    <required>false</required>
+    <trackTrending>false</trackTrending>
+    <type>Lookup</type>
+</CustomField>
