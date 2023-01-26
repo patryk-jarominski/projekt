@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>City__c</fullName>
+    <description>Name of the city where the event is held.</description>
+    <externalId>false</externalId>
+    <inlineHelpText>City name</inlineHelpText>
+    <label>City</label>
+    <length>35</length>
+    <required>true</required>
+    <trackTrending>false</trackTrending>
+    <type>Text</type>
+    <unique>false</unique>
+</CustomField>
